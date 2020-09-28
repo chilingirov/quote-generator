@@ -30,6 +30,7 @@ body  {
 }
 .fa-quote-left {
     font-size: 4rem;
+    padding: 5px;
 }
 .quote-author {
     margin-top: 15px;
@@ -88,7 +89,7 @@ color: #38a1f3;
         font-size: 1.5rem;
     }
     .fa-quote-left {
-        font-size: 2rem;
-        padding: 5px;
+        font-size: 3rem;
+        
     }
 }
